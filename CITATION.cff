@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper and this repository."
+title: "Thalamocortical System Simulation with Distributed-Delay Neural Mass Model (DD-NMM)"
+version: "1.0.0"
+date-released: 2025-09-12
+
+authors:
+  - family-names: "González-Mitjans"
+    given-names: "Anisleidy"
+
+references:
+  - type: article
+    authors:
+      - family-names: "González-Mitjans"
+        given-names: "Anisleidy"
+      - family-names: "Paz-Linares"
+        given-names: "Deirel"
+      - family-names: "López-Naranjo"
+        given-names: "Carlos"
+      - family-names: "Areces-Gonzalez"
+        given-names: "Ariosky"
+      - family-names: "Li"
+        given-names: "Min"
+      - family-names: "Wang"
+        given-names: "Ying"
+      - family-names: "García-Reyes"
+        given-names: "Ronaldo"
+      - family-names: "Bringas-Vega"
+        given-names: "Maria L."
+      - family-names: "Minati"
+        given-names: "Ludovico"
+      - family-names: "Evans"
+        given-names: "Alan C."
+      - family-names: "Valdés-Sosa"
+        given-names: "Pedro A."
+    title: "Accurate and Efficient Simulation of Very High-Dimensional Neural Mass Models with Distributed-Delay Connectome Tensors"
+    journal: "NeuroImage"
+    volume: "274"
+    pages: "120137"
+    year: 2023
+    doi: "10.1016/j.neuroimage.2023.120137"
+
+  - type: software
+    title: "Thalamocortical System Simulation with Distributed-Delay Neural Mass Model (DD-NMM)"
+    url: "https://github.com/anisleidygm/Thalamocortical_System_DDNMM"
+    authors:
+      - family-names: "González-Mitjans"
+        given-names: "Anisleidy"
+    year: 2025
