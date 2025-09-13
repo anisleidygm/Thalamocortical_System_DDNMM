@@ -31,7 +31,7 @@ The implementation follows the tensor-based formulation and Local Linearization 
 
 If you use this repository in your research, please cite:
 
-**Paper:**
+**Paper and Software Repository:**
 ```bibtex
 @article{GonzalezMitjans2023_DDNMM,
   title   = {Accurate and Efficient Simulation of Very High-Dimensional Neural Mass Models with Distributed-Delay Connectome Tensors},
@@ -43,8 +43,6 @@ If you use this repository in your research, please cite:
   author  = {González-Mitjans, Anisleidy and Paz-Linares, Deirel and López-Naranjo, Carlos and Areces-Gonzalez, Ariosky and Li, Min and Wang, Ying and García-Reyes, Ronaldo and Bringas-Vega, Maria L. and Minati, Ludovico and Evans, Alan C. and Valdés-Sosa, Pedro A.}
 }
 
-**Software Repository:**
-```bibtex
 @software{Thalamocortical_DDNMM_2025,
   author       = {González-Mitjans, Anisleidy},
   title        = {Thalamocortical System Simulation with Distributed-Delay Neural Mass Model (DD-NMM)},
